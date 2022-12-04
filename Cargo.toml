@@ -2,6 +2,14 @@
 name = "stfu"
 version = "0.1.0"
 edition = "2021"
+description = "Shut The Ferris Up - profanity filtering for Rust"
+authors = ["0/0 <zero@zero.lgbt>"]
+license = "Unlicense"
+repository = "https://github.com/tazz4843/stfu"
+documentation = "https://docs.rs/stfu"
+readme = "README.md"
+keywords = ["profanity", "filter", "censor", "bad", "words"]
+categories = ["text-processing"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
